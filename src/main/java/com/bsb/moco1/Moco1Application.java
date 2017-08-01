@@ -47,8 +47,7 @@ public class Moco1Application {
         return str;
     }
     
-    
-    
+        
 	public static void main(String[] args) {
 		SpringApplication.run(Moco1Application.class, args);
 	}
