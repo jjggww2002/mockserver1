@@ -48,6 +48,7 @@ public class Moco1Application {
     }
     
     
+    
 	public static void main(String[] args) {
 		SpringApplication.run(Moco1Application.class, args);
 	}
